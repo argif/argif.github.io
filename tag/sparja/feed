@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Спаржа &#8212; Чудо-огород</title>
+	<atom:link href="https://chudo-ogorod.ru/tag/sparja/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Tue, 15 Jun 2010 09:47:10 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+	<item>
+		<title>Спаржа на огороде</title>
+		<link>https://chudo-ogorod.ru/sparzha-na-ogorode</link>
+				<comments>https://chudo-ogorod.ru/sparzha-na-ogorode#respond</comments>
+				<pubDate>Mon, 31 May 2010 08:30:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Овощи]]></category>
+		<category><![CDATA[Спаржа]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1416</guid>
+				<description><![CDATA[Спаржу выращивают многие, но в основном как растение декоративное. И вправду хороша, ажурные веточки украсят букет цветов — только любуйся! Но ведь спаржа — ранний вкусный овощ. Признаюсь, и я ряд лет выращивал спаржу для красоты и только потом начал соображать, что к чему. Поначалу в моем представлении не укладывалось, как можно от нее получить &#8230; <a href="https://chudo-ogorod.ru/sparzha-na-ogorode" class="more-link">Читать далее <span class="screen-reader-text">Спаржа на огороде</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/sparzha-na-ogorode/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

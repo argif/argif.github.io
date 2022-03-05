@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ирисы &#8212; Чудо-огород</title>
+	<atom:link href="https://chudo-ogorod.ru/tag/irisy/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Thu, 17 Mar 2011 04:19:56 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+	<item>
+		<title>Сроки цветения ириса</title>
+		<link>https://chudo-ogorod.ru/sroki-cveteniya-irisa</link>
+				<comments>https://chudo-ogorod.ru/sroki-cveteniya-irisa#comments</comments>
+				<pubDate>Mon, 24 May 2010 14:05:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Цветы]]></category>
+		<category><![CDATA[Ирисы]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1399</guid>
+				<description><![CDATA[Как-то во время встречи с цветоводами-любителями меня спросили: «Зачем Вы так пропагандируете ирисы? Ведь они за все лето цветут не больше двух дней». Действительно, цветок ириса сохраняет декоративность 2 дня и только в прохладную погоду — до 3—4, к тому же у некоторых ботанических видов на стебле бывает всего по одному цветку. Но в моем &#8230; <a href="https://chudo-ogorod.ru/sroki-cveteniya-irisa" class="more-link">Читать далее <span class="screen-reader-text">Сроки цветения ириса</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/sroki-cveteniya-irisa/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+		<item>
+		<title>Садовые ирисы</title>
+		<link>https://chudo-ogorod.ru/sadovye-irisy</link>
+				<comments>https://chudo-ogorod.ru/sadovye-irisy#respond</comments>
+				<pubDate>Mon, 24 May 2010 08:46:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Цветы]]></category>
+		<category><![CDATA[Ирисы]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1394</guid>
+				<description><![CDATA[Удивительно устроен цветок этого растения. Его лепестки, или, точнее, доли околоцветника, развернуты таким образом, что любая их деталь видна зрителю. Загадочный блеск цветка, особенно заметный при косых лучах солнца и электрическом освещении, объясняется строением клеток кожицы, фокусирующих свет, как миниатюрные оптические линзы. В переводе с греческого ирис означает радуга. Цветок, олицетворяющий одно из красивейших явлений &#8230; <a href="https://chudo-ogorod.ru/sadovye-irisy" class="more-link">Читать далее <span class="screen-reader-text">Садовые ирисы</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/sadovye-irisy/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

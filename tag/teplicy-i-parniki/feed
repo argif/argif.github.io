@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Теплицы и парники &#8212; Чудо-огород</title>
+	<atom:link href="https://chudo-ogorod.ru/tag/teplicy-i-parniki/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Sun, 05 Jun 2011 06:52:47 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+	<item>
+		<title>Строительство теплицы</title>
+		<link>https://chudo-ogorod.ru/stroitelstvo-teplicy</link>
+				<comments>https://chudo-ogorod.ru/stroitelstvo-teplicy#comments</comments>
+				<pubDate>Sun, 05 Jun 2011 06:52:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Дачный домик и теплицы]]></category>
+		<category><![CDATA[Теплицы и парники]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1995</guid>
+				<description><![CDATA[Строительство тепличных конструкций предназначено для выращивания растений в контролируемых условиях освещения, температуры, вентиляции и влажности. Экзотические растения, орхидеи, цветы, овощи и фрукты выращивают в теплицах для здорового роста или максимального выхода. Определенные культуры и овощи для салата, могут выращиваться для коммерческого производства круглый год, независимо от сезона. В дополнение, к регулированию условий окружающей среды, в &#8230; <a href="https://chudo-ogorod.ru/stroitelstvo-teplicy" class="more-link">Читать далее <span class="screen-reader-text">Строительство теплицы</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/stroitelstvo-teplicy/feed</wfw:commentRss>
+		<slash:comments>37</slash:comments>
+							</item>
+		<item>
+		<title>Как построить теплицу?</title>
+		<link>https://chudo-ogorod.ru/kak-postroit-teplicu</link>
+				<comments>https://chudo-ogorod.ru/kak-postroit-teplicu#comments</comments>
+				<pubDate>Thu, 21 Apr 2011 03:26:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Дачный домик и теплицы]]></category>
+		<category><![CDATA[Строим сами]]></category>
+		<category><![CDATA[Теплицы и парники]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1907</guid>
+				<description><![CDATA[Материалы к этой статье подготовили сотрудники &#171;Компании Фазенда&#187;&#160;&#8212; производителя теплиц из поликарбоната. Каждый садовод стремится иметь в своем саду теплицу. Одни хотят питаться ранними овощами и фруктами, другие выращивать экзотические растения. Наибольшую радость приносит ее постройка собственными руками. В магазинах можно купить готовые конструкции для покрытия пленкой или остекления. Парник должен быть расположена в солнечном &#8230; <a href="https://chudo-ogorod.ru/kak-postroit-teplicu" class="more-link">Читать далее <span class="screen-reader-text">Как построить теплицу?</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/kak-postroit-teplicu/feed</wfw:commentRss>
+		<slash:comments>30</slash:comments>
+							</item>
+		<item>
+		<title>Простой домашний парничок</title>
+		<link>https://chudo-ogorod.ru/prostoj-domashnij-parnichok</link>
+				<comments>https://chudo-ogorod.ru/prostoj-domashnij-parnichok#respond</comments>
+				<pubDate>Fri, 15 Apr 2011 02:18:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Дачный домик и теплицы]]></category>
+		<category><![CDATA[Теплицы и парники]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1896</guid>
+				<description><![CDATA[Наверное, сейчас сложно встретить человека, который бы не знал что такое парник. Для дачников он является единственной возможностью весной получить ранний урожай или осенью продлить период плодоношения растений. Некоторые даже создают подобие бизнеса, занимаясь выращиванием и реализацией ранних овощей и зелени. Парник является одним из наиболее простых и эффективных решений вопроса с получением рассады в &#8230; <a href="https://chudo-ogorod.ru/prostoj-domashnij-parnichok" class="more-link">Читать далее <span class="screen-reader-text">Простой домашний парничок</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/prostoj-domashnij-parnichok/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Помидоры, различные сорта	</title>
+	<atom:link href="https://chudo-ogorod.ru/pomidory-razlichnye-sorta/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru/pomidory-razlichnye-sorta</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Tue, 20 Mar 2012 22:44:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+			<item>
+				<title>
+				Автор: How Does Fin Aid Work				</title>
+				<link>https://chudo-ogorod.ru/pomidory-razlichnye-sorta/comment-page-1#comment-135651</link>
+		<dc:creator><![CDATA[How Does Fin Aid Work]]></dc:creator>
+		<pubDate>Tue, 20 Mar 2012 22:44:27 +0000</pubDate>
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1096#comment-135651</guid>
+					<description><![CDATA[I could not refrain from commenting. Very well written!]]></description>
+		<content:encoded><![CDATA[<p>I could not refrain from commenting. Very well written!</p>]]></content:encoded>
+						</item>
+			</channel>
+</rss>

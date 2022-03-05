@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Брюква &#8212; Чудо-огород</title>
+	<atom:link href="https://chudo-ogorod.ru/tag/brukva/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Sat, 19 Jun 2010 09:31:51 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+	<item>
+		<title>Лекарственная брюква</title>
+		<link>https://chudo-ogorod.ru/lekarstvennaya-bryukva</link>
+				<comments>https://chudo-ogorod.ru/lekarstvennaya-bryukva#comments</comments>
+				<pubDate>Sat, 19 Jun 2010 09:31:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Лекарственные растения]]></category>
+		<category><![CDATA[Брюква]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1491</guid>
+				<description><![CDATA[Если спросить огородника-северянина, живущего в Архангельской области, какая культура самая неприхотливая, он назовет брюкву. И верно, брюква хорошо уживается на холодных глинистых почвах и на торфяниках. Вот почему ее полюбили не только на севере, но и на юге. Ученые полагают, что брюква появилась как гибрид репы с различными сортами капусты. Внешне она напоминает репу, но &#8230; <a href="https://chudo-ogorod.ru/lekarstvennaya-bryukva" class="more-link">Читать далее <span class="screen-reader-text">Лекарственная брюква</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/lekarstvennaya-bryukva/feed</wfw:commentRss>
+		<slash:comments>36</slash:comments>
+							</item>
+		<item>
+		<title>Брюква, сестра репы и капусты</title>
+		<link>https://chudo-ogorod.ru/bryukva-sestra-repy-i-kapusty</link>
+				<comments>https://chudo-ogorod.ru/bryukva-sestra-repy-i-kapusty#comments</comments>
+				<pubDate>Mon, 21 Sep 2009 08:43:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Овощи]]></category>
+		<category><![CDATA[Брюква]]></category>
+		<category><![CDATA[Капуста]]></category>
+		<category><![CDATA[Посадка]]></category>
+		<category><![CDATA[Хранение]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=125</guid>
+				<description><![CDATA[Не случайно репка попала в сказку. Ведь до того, как рус­ские узнали картофель, самой распространенной культурой была репа. Да и сегодня она не редкость в огороде. Другое дело родная сестра репы — брюква. Далеко не у всякого огородника на грядках ее увидишь. А жаль. Она до­стойна внимания. Ученые считают, что расте­ние это — гибрид репы &#8230; <a href="https://chudo-ogorod.ru/bryukva-sestra-repy-i-kapusty" class="more-link">Читать далее <span class="screen-reader-text">Брюква, сестра репы и капусты</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/bryukva-sestra-repy-i-kapusty/feed</wfw:commentRss>
+		<slash:comments>24</slash:comments>
+							</item>
+	</channel>
+</rss>

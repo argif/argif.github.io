@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Гидропоника &#8212; Чудо-огород</title>
+	<atom:link href="https://chudo-ogorod.ru/tag/gidroponika/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Sun, 13 Mar 2011 01:31:11 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+	<item>
+		<title>Выращиваем овощи в подвале, метод гидропоники</title>
+		<link>https://chudo-ogorod.ru/vyrashhivaem-ovoshhi-v-podvale-metod-gidroponiki</link>
+				<comments>https://chudo-ogorod.ru/vyrashhivaem-ovoshhi-v-podvale-metod-gidroponiki#respond</comments>
+				<pubDate>Sat, 31 Oct 2009 14:42:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Овощи]]></category>
+		<category><![CDATA[Гидропоника]]></category>
+		<category><![CDATA[Огурцы]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=590</guid>
+				<description><![CDATA[Многих садоводов давно интересует вопрос, можно ли выращивать овощи в подвалах, погребах и в подземных выработках? Первые опыты проведены были еще в 1875 году. Источниками света служили керосиновые лампы, газовые горелки и другие примитивные средства. В настоящее время для этих целей используют люминесцентные, ксеноновые, дуговые ртутные и обычные лампы накаливания. Результаты превзошли всякие ожидания. Так, &#8230; <a href="https://chudo-ogorod.ru/vyrashhivaem-ovoshhi-v-podvale-metod-gidroponiki" class="more-link">Читать далее <span class="screen-reader-text">Выращиваем овощи в подвале, метод гидропоники</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/vyrashhivaem-ovoshhi-v-podvale-metod-gidroponiki/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

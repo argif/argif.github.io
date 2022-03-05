@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Садовая техника &#8212; Чудо-огород</title>
+	<atom:link href="https://chudo-ogorod.ru/category/sadovaya-tehnika/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Fri, 06 Nov 2015 14:52:55 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+	<item>
+		<title>Уход за садовым инвентарем</title>
+		<link>https://chudo-ogorod.ru/uxod-za-sadovym-inventarem</link>
+				<comments>https://chudo-ogorod.ru/uxod-za-sadovym-inventarem#respond</comments>
+				<pubDate>Wed, 30 Mar 2011 01:08:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Садовая техника]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1868</guid>
+				<description><![CDATA[Садовый инвентарь помогает нам поддерживать в порядке деревья и кусты в саду и на дачном участке. В его состав входят различные инструменты и приспособления, которые можно поделить на следующие подгруппы. 1. Инструмент по уходу за почвой. Это различного вида лопаты, рыхлители, вилы, грабли, мотыги. 2. Инструмент для обрезки и прививки. К нему относятся пилы, секаторы, &#8230; <a href="https://chudo-ogorod.ru/uxod-za-sadovym-inventarem" class="more-link">Читать далее <span class="screen-reader-text">Уход за садовым инвентарем</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/uxod-za-sadovym-inventarem/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Садовый душ с подогревом на дачном участке</title>
+		<link>https://chudo-ogorod.ru/sadovyj-dush-s-podogrevom-na-dachnom-uchastke</link>
+				<comments>https://chudo-ogorod.ru/sadovyj-dush-s-podogrevom-na-dachnom-uchastke#comments</comments>
+				<pubDate>Sun, 19 Sep 2010 08:21:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Садовая техника]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1625</guid>
+				<description><![CDATA[Работать на огородном участке под палящим солнцем, когда одолевают насекомые, совсем не просто. Но до чего же приятно после утомительной работы на земле почувствовать удовлетворение от вложенного труда, поедая спелую дыню в уютном дачном домике. Не менее приятно, когда на даче можно переодеться, принять душ и комфортно отдохнуть. Если дачный домик отсутствует или не позволяет &#8230; <a href="https://chudo-ogorod.ru/sadovyj-dush-s-podogrevom-na-dachnom-uchastke" class="more-link">Читать далее <span class="screen-reader-text">Садовый душ с подогревом на дачном участке</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/sadovyj-dush-s-podogrevom-na-dachnom-uchastke/feed</wfw:commentRss>
+		<slash:comments>34</slash:comments>
+							</item>
+		<item>
+		<title>Электрические триммеры</title>
+		<link>https://chudo-ogorod.ru/elektricheskie-trimmery</link>
+				<comments>https://chudo-ogorod.ru/elektricheskie-trimmery#comments</comments>
+				<pubDate>Fri, 04 Jun 2010 13:07:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Садовая техника]]></category>
+		<category><![CDATA[Электрические триммеры]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1430</guid>
+				<description><![CDATA[Для городских жителей приусадебный участок является больше местом отдыха, нежели огородом. Именно поэтому требования к ландшафту участка постоянно растут. Сегодня газон, цветочная клумба, декорации&#160;&#8212; неотъемлемые элементы любого сада. Садовая техника призвана помочь дачникам справиться со сложными работами, облегчить их труд. Так, например, для подстригания газонов используются электрические триммеры. Они помогают с минимальными затратами времени поддерживать &#8230; <a href="https://chudo-ogorod.ru/elektricheskie-trimmery" class="more-link">Читать далее <span class="screen-reader-text">Электрические триммеры</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/elektricheskie-trimmery/feed</wfw:commentRss>
+		<slash:comments>36</slash:comments>
+							</item>
+	</channel>
+</rss>

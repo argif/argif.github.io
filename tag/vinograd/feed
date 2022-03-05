@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Виноград &#8212; Чудо-огород</title>
+	<atom:link href="https://chudo-ogorod.ru/tag/vinograd/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Sat, 05 Nov 2011 16:49:27 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+	<item>
+		<title>Как вырастить в саду виноград</title>
+		<link>https://chudo-ogorod.ru/virastit-vinograd</link>
+				<comments>https://chudo-ogorod.ru/virastit-vinograd#comments</comments>
+				<pubDate>Wed, 10 Nov 2010 23:52:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Фрукты]]></category>
+		<category><![CDATA[Виноград]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1715</guid>
+				<description><![CDATA[Каждый хороший хозяин хочет украсить свой садовый участок. Что для этого только не используется: стеклянные витрины, кованые заборы и даже фонтаны и статуи. Однако, как не крути, выражение «садовый участок» в первую очередь подразумевает наличие различных культурных растений, например, винограда. В выращивании винограда можно выделить несколько этапов, но основное это посадка растения и формирование куста. &#8230; <a href="https://chudo-ogorod.ru/virastit-vinograd" class="more-link">Читать далее <span class="screen-reader-text">Как вырастить в саду виноград</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/virastit-vinograd/feed</wfw:commentRss>
+		<slash:comments>29</slash:comments>
+							</item>
+		<item>
+		<title>Выращиваем виноград</title>
+		<link>https://chudo-ogorod.ru/vyrashhivaem-vinograd</link>
+				<comments>https://chudo-ogorod.ru/vyrashhivaem-vinograd#respond</comments>
+				<pubDate>Tue, 09 Feb 2010 13:09:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Деревья и кустарники]]></category>
+		<category><![CDATA[Виноград]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=927</guid>
+				<description><![CDATA[Виноград, всем известно, растение теплолюбивое и светолюбивое. Поэтому, если ваш сад не на юге, а, например, в Подмосковье, тем более выбирайте для него самое теплое и светлое место — с южной стороны дома, сарая, забора. И посадите его на гряды высотой 30 см или без гряд, но предварительно сделайте перевалку почвы на отведенном участке (пусть &#8230; <a href="https://chudo-ogorod.ru/vyrashhivaem-vinograd" class="more-link">Читать далее <span class="screen-reader-text">Выращиваем виноград</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/vyrashhivaem-vinograd/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

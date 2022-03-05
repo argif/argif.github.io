@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Лесные ягоды &#8212; Чудо-огород</title>
+	<atom:link href="https://chudo-ogorod.ru/tag/lesnye-yagody/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Tue, 10 May 2011 00:33:57 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+	<item>
+		<title>Ежевика, описание ягоды</title>
+		<link>https://chudo-ogorod.ru/ezhevika-opisanie-yagody</link>
+				<comments>https://chudo-ogorod.ru/ezhevika-opisanie-yagody#respond</comments>
+				<pubDate>Wed, 14 Oct 2009 09:11:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Ягоды]]></category>
+		<category><![CDATA[Ежевика]]></category>
+		<category><![CDATA[Лесные ягоды]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=409</guid>
+				<description><![CDATA[На склоне лета, ягодная скатерть-самобранка щедра и многоцветна. Садовые кустарники угощают крыжовником самых разнообразных расцветок и размеров; смородиной — красной, белой и черной; земляникой непрерывного плодоношения и, само собой, малиной. Еще великолепнее набор лесных гостинцев. Брусника, голубика, черемуха, костяника, барбарис... В этом ряду нельзя не назвать отменное лакомство — сизую ежевику. Кусты ежевики усеяны шипами, &#8230; <a href="https://chudo-ogorod.ru/ezhevika-opisanie-yagody" class="more-link">Читать далее <span class="screen-reader-text">Ежевика, описание ягоды</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/ezhevika-opisanie-yagody/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Брусника, агротехника возделывания</title>
+		<link>https://chudo-ogorod.ru/brusnika-agrotexnika-vozdelyvaniya</link>
+				<comments>https://chudo-ogorod.ru/brusnika-agrotexnika-vozdelyvaniya#comments</comments>
+				<pubDate>Wed, 14 Oct 2009 08:58:29 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Ягоды]]></category>
+		<category><![CDATA[Лесные ягоды]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=403</guid>
+				<description><![CDATA[Как жаль, что в последние годы из-за интенсивной эксплуатации лесов быстро уменьшаются площади брусничных ягодников. И хотя собирают эту приятную на вкус ягоду в нашей стране (где, кстати, растут три вида брусники из десяти, которыми представлен этот род в мировой флоре) в очень большом количестве, тем не менее спрос на нее значительно превышает объем заготовок. &#8230; <a href="https://chudo-ogorod.ru/brusnika-agrotexnika-vozdelyvaniya" class="more-link">Читать далее <span class="screen-reader-text">Брусника, агротехника возделывания</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/brusnika-agrotexnika-vozdelyvaniya/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+	</channel>
+</rss>

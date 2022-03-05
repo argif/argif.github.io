@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Клубника: любишь есть&#160;&#8212; люби и сажать	</title>
+	<atom:link href="https://chudo-ogorod.ru/klubnika-lyubish-est-lyubi-i-sazhat/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru/klubnika-lyubish-est-lyubi-i-sazhat</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Sun, 21 Apr 2013 01:01:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+			<item>
+				<title>
+				Автор: Николай				</title>
+				<link>https://chudo-ogorod.ru/klubnika-lyubish-est-lyubi-i-sazhat/comment-page-1#comment-151517</link>
+		<dc:creator><![CDATA[Николай]]></dc:creator>
+		<pubDate>Sun, 21 Apr 2013 01:01:13 +0000</pubDate>
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1990#comment-151517</guid>
+					<description><![CDATA[Спасибо интересная статья!!!]]></description>
+		<content:encoded><![CDATA[<p>Спасибо интересная статья!!!</p>]]></content:encoded>
+						</item>
+			</channel>
+</rss>

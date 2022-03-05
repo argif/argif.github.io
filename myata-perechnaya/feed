@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Мята перечная	</title>
+	<atom:link href="https://chudo-ogorod.ru/myata-perechnaya/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru/myata-perechnaya</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Sun, 08 Apr 2012 17:21:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+			<item>
+				<title>
+				Автор: Mose Fan				</title>
+				<link>https://chudo-ogorod.ru/myata-perechnaya/comment-page-1#comment-150439</link>
+		<dc:creator><![CDATA[Mose Fan]]></dc:creator>
+		<pubDate>Sun, 08 Apr 2012 17:21:13 +0000</pubDate>
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1654#comment-150439</guid>
+					<description><![CDATA[It so we all can learn about it!]]></description>
+		<content:encoded><![CDATA[<p>It so we all can learn about it!</p>]]></content:encoded>
+						</item>
+			</channel>
+</rss>

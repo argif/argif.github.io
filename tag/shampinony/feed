@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Шампиньоны &#8212; Чудо-огород</title>
+	<atom:link href="https://chudo-ogorod.ru/tag/shampinony/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Sat, 05 Nov 2011 16:52:34 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+	<item>
+		<title>Выращиваем свои шампиньоны</title>
+		<link>https://chudo-ogorod.ru/vyrashhivaem-svoi-shampinony</link>
+				<comments>https://chudo-ogorod.ru/vyrashhivaem-svoi-shampinony#respond</comments>
+				<pubDate>Thu, 08 Apr 2010 08:59:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Грибы]]></category>
+		<category><![CDATA[Шампиньоны]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1263</guid>
+				<description><![CDATA[О том, как вырастить грибы в своем домашнем хозяйстве или огороде писали не раз. В публикациях речь шла и о посадочном материале — мицелии. На этот раз еще один вариант — шампиньоны из дикой грибницы. Выращивать шампиньоны хотели бы многие владельцы приусадебного хозяйства, но дефицит посадочного материала (мицелия) сильно охлаждает пыл. Вот тут неплохо вспомнить &#8230; <a href="https://chudo-ogorod.ru/vyrashhivaem-svoi-shampinony" class="more-link">Читать далее <span class="screen-reader-text">Выращиваем свои шампиньоны</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/vyrashhivaem-svoi-shampinony/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Шампиньоны, несколько способов выращивания</title>
+		<link>https://chudo-ogorod.ru/shampinony-neskolko-sposobov-vyrashhivaniya</link>
+				<comments>https://chudo-ogorod.ru/shampinony-neskolko-sposobov-vyrashhivaniya#comments</comments>
+				<pubDate>Mon, 28 Sep 2009 16:10:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Грибы]]></category>
+		<category><![CDATA[Шампиньоны]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=217</guid>
+				<description><![CDATA[Многие интересуются выращиванием шампиньонов. Но вот беда! Посадочный материал этой культуры — стерильная грибница — оказался в большом дефиците. Попробуем обратиться к опыту русских огородников, которые успешно выращивали шампиньоны, не имея стерильной зерновой грибницы. Правда, по 20 кг с 1 м2, как сейчас, они не получали, но вдвое меньший урожай был им по силам. Он &#8230; <a href="https://chudo-ogorod.ru/shampinony-neskolko-sposobov-vyrashhivaniya" class="more-link">Читать далее <span class="screen-reader-text">Шампиньоны, несколько способов выращивания</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/shampinony-neskolko-sposobov-vyrashhivaniya/feed</wfw:commentRss>
+		<slash:comments>215</slash:comments>
+							</item>
+	</channel>
+</rss>

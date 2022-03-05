@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Калина &#8212; Чудо-огород</title>
+	<atom:link href="https://chudo-ogorod.ru/tag/kalina/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Tue, 30 Mar 2010 19:14:25 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+	<item>
+		<title>Калина</title>
+		<link>https://chudo-ogorod.ru/kalina</link>
+				<comments>https://chudo-ogorod.ru/kalina#comments</comments>
+				<pubDate>Tue, 30 Mar 2010 19:08:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Деревья и кустарники]]></category>
+		<category><![CDATA[Калина]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1219</guid>
+				<description><![CDATA[До чего же привлекательно небольшое деревце лесной калины в пору цветения. Ее белоснежные цветки, собранные в крупные полузонтичные соцветия, резко выделяются на фоне темно-зеленых широких резных листьев и благоухают 20— 25 дней. Цветки придают стройной калине особое очарование. Не зря народ издавна видит в этом растении символ девичьей красоты и прелести. Хороша калина и осенью. &#8230; <a href="https://chudo-ogorod.ru/kalina" class="more-link">Читать далее <span class="screen-reader-text">Калина</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/kalina/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+		<item>
+		<title>Калина обыкновенная</title>
+		<link>https://chudo-ogorod.ru/kalina-obyknovennaya</link>
+				<comments>https://chudo-ogorod.ru/kalina-obyknovennaya#respond</comments>
+				<pubDate>Wed, 10 Feb 2010 11:59:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Деревья и кустарники]]></category>
+		<category><![CDATA[Калина]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=934</guid>
+				<description><![CDATA[Калина обыкновенная из семейства жимолостных растет повсеместно, чаще в форме кустарника, реже — в виде дерева высотой до 5 м. Очень красива она в мае — июне, во время цветения, когда весь куст покрыт обильными белыми или бело-розовыми цветками. Они собраны в щиток. Внутри цветки небольшие, с пестиками и тычинками, а наружные — более крупные, &#8230; <a href="https://chudo-ogorod.ru/kalina-obyknovennaya" class="more-link">Читать далее <span class="screen-reader-text">Калина обыкновенная</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/kalina-obyknovennaya/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

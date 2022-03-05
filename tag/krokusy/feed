@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Крокусы &#8212; Чудо-огород</title>
+	<atom:link href="https://chudo-ogorod.ru/tag/krokusy/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Mon, 15 Mar 2010 09:30:35 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+	<item>
+		<title>Крокусы и другие луковичные</title>
+		<link>https://chudo-ogorod.ru/krokusy-i-drugie-lukovichnye</link>
+				<comments>https://chudo-ogorod.ru/krokusy-i-drugie-lukovichnye#comments</comments>
+				<pubDate>Thu, 25 Feb 2010 14:06:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Цветы]]></category>
+		<category><![CDATA[Крокусы]]></category>
+		<category><![CDATA[Украшение сада]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1032</guid>
+				<description><![CDATA[Весна, тает снег, слякоть. Но уже в эту пору среди полустаявшего снега в саду радуют глаз самые ранние весенние цветы — луковичные. К сожалению, цветут они сравнительно недолго. Поэтому, планируя посадки, надо заранее подумать, как сохранить декоративность сада и после отцветания луковичных. Крокусы, пожалуй, самые популярные клубнелуковичные растения. Именно они зацветают в саду, когда еще &#8230; <a href="https://chudo-ogorod.ru/krokusy-i-drugie-lukovichnye" class="more-link">Читать далее <span class="screen-reader-text">Крокусы и другие луковичные</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/krokusy-i-drugie-lukovichnye/feed</wfw:commentRss>
+		<slash:comments>35</slash:comments>
+							</item>
+	</channel>
+</rss>

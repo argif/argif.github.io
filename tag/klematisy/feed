@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Клематисы &#8212; Чудо-огород</title>
+	<atom:link href="https://chudo-ogorod.ru/tag/klematisy/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Wed, 24 Mar 2010 07:28:44 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+	<item>
+		<title>Клематисы</title>
+		<link>https://chudo-ogorod.ru/klematisy</link>
+				<comments>https://chudo-ogorod.ru/klematisy#comments</comments>
+				<pubDate>Wed, 24 Mar 2010 07:27:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Цветы]]></category>
+		<category><![CDATA[Клематисы]]></category>
+
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=1172</guid>
+				<description><![CDATA[Вьющиеся растения, такие как каприфоль, виноград и особенно клематис придают саду неповторимое очарование. Красива стена дома, увитая побегами, сплошь покрытая сотнями крупных цветков самой разной окраски. Прелестны одиночные кусты клематиса, посаженные на небольших газонах. Особенно в сочетании с клубневыми бегониями, розами или пионами, а также рядом с хвойными — туей, серебристой елью. Очень эффектны беседки, &#8230; <a href="https://chudo-ogorod.ru/klematisy" class="more-link">Читать далее <span class="screen-reader-text">Клематисы</span></a>]]></description>
+						<wfw:commentRss>https://chudo-ogorod.ru/klematisy/feed</wfw:commentRss>
+		<slash:comments>26</slash:comments>
+							</item>
+	</channel>
+</rss>
