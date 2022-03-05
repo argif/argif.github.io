@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Земляника, обработка и удобрения	</title>
+	<atom:link href="https://chudo-ogorod.ru/zemlyanika-obrabotka-i-udobreniya/feed" rel="self" type="application/rss+xml" />
+	<link>https://chudo-ogorod.ru/zemlyanika-obrabotka-i-udobreniya</link>
+	<description>Урожайные грядки и цветы без хлопот</description>
+	<lastBuildDate>Fri, 27 Jan 2012 11:03:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.11</generator>
+			<item>
+				<title>
+				Автор: grina 51				</title>
+				<link>https://chudo-ogorod.ru/zemlyanika-obrabotka-i-udobreniya/comment-page-1#comment-99779</link>
+		<dc:creator><![CDATA[grina 51]]></dc:creator>
+		<pubDate>Fri, 27 Jan 2012 11:03:45 +0000</pubDate>
+		<guid isPermaLink="false">http://chudo-ogorod.ru/?p=471#comment-99779</guid>
+					<description><![CDATA[НЕ знал, что можно землянику обрабатывать огнем, попробую.]]></description>
+		<content:encoded><![CDATA[<p>НЕ знал, что можно землянику обрабатывать огнем, попробую.</p>]]></content:encoded>
+						</item>
+			</channel>
+</rss>
