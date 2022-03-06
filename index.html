@@ -22,12 +22,9 @@
 	gtag('js', new Date());
 
 	gtag('config', 'G-M6CWHZGZP0');
-
-	
-
 	</script>
 
-	<script type = "text/javascript" src = "test.js"></script>
+	<script type = "text/javascript" src ="/js/prebid-ads.js"></script>
 
 <title>Чудо-огород - садоводам и дачникам про овощи, фрукты, грибы и цветы. Растения в огороде круглый год!</title>
 
@@ -639,7 +636,12 @@ ins{
 		
 			<script>
 			function change() {
-				document.getElementById("dates").innerHTML = "A3V4D2"
+				if( window.canRunAds === undefined ){
+					document.getElementById("dates").innerHTML = "Выключи блокировщик рекламы! Тогда увидишь код."
+				}
+				else {
+					document.getElementById("dates").innerHTML = "A3V4D2"
+				}
 			}
 			</script>
 
