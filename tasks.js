@@ -13,7 +13,7 @@ function checkVisibility() {
 function startup() {
     if (sessionStorage.length<6) {
         var links_total = Math.floor(Math.random()*4+1)
-        var ads_total = Math.floor(Math.random()*3+1)
+        var ads_total = Math.floor(Math.random()*1+1)
         var seconds_total = Math.floor(Math.random()*80 + 10)
         var links_done = 0
         var ads_done = 0
@@ -102,22 +102,20 @@ function attachLinksSnooper() {
                         break
                     }
                 }
-                //var url = event.target.href;
-                //window.open(url, '_self');
-                //event.preventDefault();
             })
         }
     }
 }
 
 function attachAdsSnooper() {
-    setInterval(function(){
-        var activeE = document.activeElement;
-        if(activeE && activeE.tagName == 'IFRAME'){
-            console.log(activeE.tagName)
+    window.focus();
+    window.addEventListener('mousemove', function(e){
+        var is_iframe = document.activeElement.tagName == 'IFRAME'
+        if (is_iframe) {
             updateAds()
+            document.activeElement.blur()
         }
-    }, 100);
+    });
 }
 
 
@@ -128,6 +126,5 @@ function checkFinished() {
     if (links==0 & ads==0 & seconds==0) {
         document.getElementById("task-banner").innerHTML = '(1): 1<br class="task">(2): 2<br class="task">(3): 1<br class="task">(4): 3<br class="task">(5): 2'
     }
-
 }
 
