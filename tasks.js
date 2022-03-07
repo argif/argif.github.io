@@ -37,17 +37,15 @@ function updateLinks(event) {
         var counter = document.getElementById("links-to-click")
         counter.innerHTML = dif - 1
     }
-    event.stopPropagation()
 }
 
-function updateAds(event) {
+function updateAds() {
     var dif = parseFloat(sessionStorage.ads_total - sessionStorage.ads_done)
     if (dif>0) {
         sessionStorage.ads_done = parseFloat(sessionStorage.ads_done) + 1
         var counter = document.getElementById("ads-to-click")
         counter.innerHTML = dif - 1
     }
-    event.srcElement.onmousedown = null
 }
 
 function updateSeconds() {
@@ -113,35 +111,13 @@ function attachLinksSnooper() {
 }
 
 function attachAdsSnooper() {
-    var all_ads = document.querySelectorAll("div.ads")
-    var adStates = sessionStorage.adStates
-    if (adStates==null) {
-        sessionStorage.adStates = JSON.stringify(Array(all_ads.length).fill(true))
-    }
-    for (var i=0; i<all_ads.length;i++) {
-        if (JSON.parse(sessionStorage.adStates)[i]) {
-            var ad = all_ads[i]
-            ad.onmousedown = function(event) {
-                updateAds(event)
-            }
-            ad.addEventListener('mousedown', function (event) {
-                var src = event.srcElement
-                if (src.onmousedown!=null) {
-                    src.onmousedown=null
-                }
-                var all_ads = document.querySelectorAll("a")
-                for (var j=0; j<all_ads.length;j++) {
-                    if (all_ads[j]==src) {
-                        var newAdStates = JSON.parse(sessionStorage.adStates)
-                        newAdStates[j] = false
-                        sessionStorage.adStates = JSON.stringify(newAdStates)
-                        break
-                    }
-                }
-                //event.preventDefault();
-            })
+    setInterval(function(){
+        var activeE = document.activeElement;
+        if(activeE && activeE.tagName == 'IFRAME'){
+            console.log(activeE.tagName)
+            updateAds()
         }
-    }
+    }, 100);
 }
 
 
