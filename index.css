@@ -445,7 +445,6 @@ ul {
     margin: 0% 5% 1.666% 5%;
     text-align: justify;
     text-justify: inter-word;
-    height: 1000px
 }
 
 .page-img {
@@ -531,7 +530,6 @@ ul {
 
 /*------------------------------------------------------------------------------------------------*/
 
- /* Style the header */
  .task-banner {
     padding: 10px 16px;
     width: 190px;
@@ -544,5 +542,17 @@ ul {
     right: 0;
     margin-right: 10px;
     margin-bottom: 10px;
-  }
+    visibility: hidden;
+}
+
+.ads {
+    display: inline-block;
+    
+    width: 250px; 
+    height: 250px
+}
+
+br.task {
+    margin-bottom: 10px;
+}
   

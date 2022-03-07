@@ -9,8 +9,9 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto:400' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script type = "text/javascript" src = "functions.js"></script>
-    <script type = "text/javascript" src = "tasks.js"></script>
     <script type = "text/javascript" src ="prebid-ads.js"></script>
+    <script type = "text/javascript" src = "tasks.js"></script>
+    <script async type="application/javascript" src="https://a.exdynsrv.com/ad-provider.js"></script>
     <title>Все о заработке в интернете</title>
 </head>
 <body> 
@@ -18,7 +19,7 @@
     <div class="topnav">
         <div class="topnav-right">
             <div class="dropdown">
-                <a class="dropbtn dropbtn-normal" href="index.html">Заработать на заданиях</a>
+                <a class="dropbtn dropbtn-normal" parent.location='index.html'>Заработать на заданиях</a>
             </div>
             <div class="dropdown">
                 <a class="dropbtn dropbtn-normal" href="adv.html">Заработать на рекламе</a>
@@ -29,44 +30,51 @@
         <div class="page-content">
             <div class="filler2"></div>
             <div id="banner">
-                <!--<script async type="application/javascript" src="https://a.exdynsrv.com/ad-provider.js"></script> 
-                <ins class="adsbyexoclick" data-zoneid="4622522"></ins> 
-                <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>-->
+                <div class="ads"><ins class="adsbyexoclick" data-zoneid="4622522"></ins></div>
             </div>
             <div class="filler2"></div>
             <h1>Русские</h1> 
-            <h2><a href="https://socpublic.com/?i=8008750&slide=1">Socpublic</a></h2>
+            <h2><a href="https://socpublic.com/?i=8008750&slide=1" target="_blank">Socpublic</a></h2>
             <p>Для заработка участникам нужно выполнять небольшие задания, предоставленные рекламодателями. Чем сложнее задача, тем больше заработок. Проект платит за лайки, комментарии, просмотр сайтов и рекламы. Выплаты осуществляются мгновенно через различные платежные системы. 3.7 миллионов ежемесячных посещений.</p>
-            <h2><a href="https://seosprint.net/?ref=15669317">Seosprint</a></h2>
+            <h2><a href="https://seosprint.net/?ref=15669317" target="_blank">Seosprint</a></h2>
             <p>Аналог Socpublic. Сервис дает возможность заработка онлайн, путём просмотра сайтов, чтения писем, и выполнения несложных тестовых задач за денежную плату. Платят в долларах. 3.6 миллионов ежемесячных посещений.</p>
-            <h2><a href="https://seo-fast.ru/?r=2583843">Seo-fast</a></h2>
+            <h2><a href="https://seo-fast.ru/?r=2583843" target="_blank">Seo-fast</a></h2>
             <p>Платят деньги за просмотр рекламных сайтов. Есть несколько видов: Standart, Mini, баннерный сёрфинг и сёрфинг с переходами/капчёй. Отличаются они временем просмотра и суммой оплаты за просмотр. Самый лучший сайт для тех, кто фокусируется на серфинге. 4.04 миллионов ежемесячных посещений.</p>
 
             <h1>Иностранные</h1> 
-            <h2><a href="https://surfe.be/ext/1766901">Surfe</a></h2>
+            <h2><a href="https://surfe.be/ext/1766901" target="_blank">Surfe</a></h2>
             <p> Заработок в интернете выполняя простые задания. Платят в долларах, вывод средств доступен уже от $ 0.03. Имеют русскую версию сайта. </p>
             <div class="filler2"></div>
+            <div id="banner">
+                <div class="ads"><ins class="adsbyexoclick" data-zoneid="4623088"></ins></div>
+                <div class="ads"><ins class="adsbyexoclick" data-zoneid="4623090"></ins></div> 
+                <div class="ads"><ins class="adsbyexoclick" data-zoneid="4623092"></ins></div>
+            </div>
             <div class="filler2"></div>
         </div>
     </div>
-    <div class="footer">
+    <div id="footer" class="footer">
 
         <div class="task-banner sticky" id="task-banner">
             <p>Нажми на <span id="links-to-click">0</span> ссылки.</p>
-            <p>Нажми на <span id="ads-to-click">0</span> реклам.</p>
+            <p>Нажми на <span id="ads-to-click">0</span> рекламы.</p>
             <p>Останься на <span id="seconds-to-stay">0</span> секунд.</p>
         </div> 
-
         <script>
             function change() {
+                console.log(window.canRunAds,document.getElementById("banner").children.length)
                 if( window.canRunAds === undefined || document.getElementById("banner").children.length==1){
                     document.getElementById("dates").innerHTML = "Выключи блокировщик рекламы! Тогда увидишь задание."
                 }
                 else {
-                    document.getElementById("dates").innerHTML = "Задание отобразилось справа в плавающем окне"
+                    document.getElementById("dates").innerHTML = "Задание отобразилось справа в плавающем окне"    
+                    document.getElementById("task-banner").style.visibility = "visible"
+                    sessionStorage.visibility = "visible"
                 }
             }
-            initTasks()
+            startup()
+            initTasks()  
+            checkVisibility()
         </script>
 
         <div class="footer-text">
@@ -74,7 +82,6 @@
         </div>
     </div>
 </div>
-
-
+<script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
 
 </body>
