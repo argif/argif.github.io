@@ -15,7 +15,7 @@ function startup() {
         var links_total = Math.floor(Math.random()*4+1)
         var ads_total = Math.floor(Math.random()*1+1)
         var seconds_total = Math.floor(Math.random()*80 + 10)
-        var permission_total = Math.floor(Math.random()*0)
+        var permission_total = Math.floor(Math.random()*2)
         var links_done = 0
         var ads_done = 0
         var seconds_done = 0
