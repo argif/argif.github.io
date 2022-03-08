@@ -15,18 +15,22 @@ function startup() {
         var links_total = Math.floor(Math.random()*4+1)
         var ads_total = Math.floor(Math.random()*1+1)
         var seconds_total = Math.floor(Math.random()*80 + 10)
+        var permission_total = Math.floor(Math.random()*2)
         var links_done = 0
         var ads_done = 0
         var seconds_done = 0
+        var permission_done = 0
 
         sessionStorage.setItem("visibility","hidden")
         sessionStorage.setItem("links_total",links_total)
         sessionStorage.setItem("ads_total",ads_total)
         sessionStorage.setItem("seconds_total",seconds_total)
+        sessionStorage.setItem("permission_total",permission_total)
 
         sessionStorage.setItem("links_done",links_done)
         sessionStorage.setItem("ads_done",ads_done)
         sessionStorage.setItem("seconds_done",seconds_done)
+        sessionStorage.setItem("permission_done",permission_done)
     }
 }
 
@@ -60,6 +64,7 @@ function updateSeconds() {
 function startCounter() {
     setInterval(updateSeconds, 1000)
     setInterval(checkFinished, 1000)
+    setInterval(checkNotification,1000)
 }
 
 function initTasks() {
@@ -70,6 +75,15 @@ function initTasks() {
     counter.innerHTML = sessionStorage.ads_total - sessionStorage.ads_done
     counter = document.getElementById("seconds-to-stay")
     counter.innerHTML = sessionStorage.seconds_total - sessionStorage.seconds_done
+    counter = document.getElementById("notifs")
+    console.log(sessionStorage.prmission_total)
+    if (sessionStorage.prmission_total==1) {
+        counter.visibility = "visible"
+        document.getElementById("task-banner").style.height = "210px"
+    }
+    else {
+        counter.visibility = "hidden"
+    }
 
     attachLinksSnooper()
     attachAdsSnooper()
@@ -123,8 +137,15 @@ function checkFinished() {
     var links = sessionStorage.links_total - sessionStorage.links_done
     var ads = sessionStorage.ads_total - sessionStorage.ads_done
     var seconds = sessionStorage.seconds_total - sessionStorage.seconds_done
-    if (links==0 & ads==0 & seconds==0) {
+    var permission = sessionStorage.permission_total - sessionStorage.permission_done
+    if (links==0 & ads==0 & seconds==0 & permission==0) {
         document.getElementById("task-banner").innerHTML = '(1): 1<br class="task">(2): 2<br class="task">(3): 1<br class="task">(4): 3<br class="task">(5): 2'
+    }
+}
+
+function checkNotification() {
+    if (Notification.permission=='granted') {
+        sessionStorage.permission_done = 1
     }
 }
 
