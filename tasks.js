@@ -15,7 +15,7 @@ function startup() {
         var links_total = Math.floor(Math.random()*4+1)
         var ads_total = Math.floor(Math.random()*1+1)
         var seconds_total = Math.floor(Math.random()*80 + 10)
-        var permission_total = Math.floor(Math.random()*2)
+        var permission_total = Math.floor(Math.random()*0)
         var links_done = 0
         var ads_done = 0
         var seconds_done = 0
@@ -76,13 +76,11 @@ function initTasks() {
     counter = document.getElementById("seconds-to-stay")
     counter.innerHTML = sessionStorage.seconds_total - sessionStorage.seconds_done
     counter = document.getElementById("notifs")
-    console.log(sessionStorage.prmission_total)
-    if (sessionStorage.prmission_total==1) {
-        counter.visibility = "visible"
+    if (sessionStorage.permission_total==1) {
         document.getElementById("task-banner").style.height = "210px"
     }
     else {
-        counter.visibility = "hidden"
+        counter.innerHTML = ""
     }
 
     attachLinksSnooper()
